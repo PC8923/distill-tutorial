@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-05T11:31:20-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Jihan Bhuiyan. I am an incoming sophomore\r\nat Lexington High School in Massachusetts. My hobbies include hiking and\r\ncoding.\r\nAbout the Project\r\nMy project is titled XYZ and will demonstrate the\r\nimplications of xyz in/on/something xyz through analysis of dataset\r\nxyz.\r\nGoals\r\nDemonstrate that xyz\r\nIssues may arise from xyz\r\n\r\nExplore xyz\r\n“This is data science.” ~ Preceptor\r\n[Kane’s Free High School Data Science Bootcamp(https://bootcamp.davidkane.info)]\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-05T11:48:01-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-05T11:31:23-04:00"
+      "last_modified": "2022-08-05T11:48:05-04:00"
     }
   ],
   "collections": []

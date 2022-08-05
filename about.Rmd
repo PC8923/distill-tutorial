@@ -8,3 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## About Me
+My name is **Jihan Bhuiyan**. I am an incoming sophomore at Lexington High School in Massachusetts. My hobbies include hiking and coding.
+
+## About the Project
+My project is titled *XYZ* and will demonstrate the implications of xyz in/on/something xyz through analysis of dataset xyz.
+
+### Goals
+* Demonstrate that xyz
+  + Issues may arise from xyz
+* Explore xyz
+
+"This is data science."  ~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp(https://bootcamp.davidkane.info)]
