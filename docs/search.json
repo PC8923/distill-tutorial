@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nMy name is Jihan Bhuiyan. I am an incoming sophomore\r\nat Lexington High School in Massachusetts. My hobbies include hiking and\r\ncoding.\r\nAbout the Project\r\nMy project is titled XYZ and will demonstrate the\r\nimplications of xyz in/on/something xyz through analysis of dataset\r\nxyz.\r\nGoals\r\nDemonstrate that xyz\r\nIssues may arise from xyz\r\n\r\nExplore xyz\r\n“This is data science.” ~ Preceptor\r\n[Kane’s Free High School Data Science Bootcamp(https://bootcamp.davidkane.info)]\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T12:57:21-04:00"
+      "last_modified": "2022-08-08T13:05:32-04:00"
     },
     {
       "path": "index.html",
       "title": "Title of My Final Project",
       "description": "This is where I will describe my final project.\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T12:57:25-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T13:05:36-04:00"
     },
     {
       "path": "source_A.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T12:57:26-04:00"
+      "last_modified": "2022-08-08T13:05:37-04:00"
     },
     {
       "path": "source_B.html",
@@ -42,7 +42,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T12:57:26-04:00"
+      "last_modified": "2022-08-08T13:05:37-04:00"
     }
   ],
   "collections": []
